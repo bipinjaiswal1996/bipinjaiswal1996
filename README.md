@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bipin Jaiswal
-- I'am currently pursuing my Masters in Computer Science from IIT Kharagpur.
-- 👀 I’m interested in Algorithms, Machine Learning , Web Devlopment.
-- 🌱 I’m currently learning Computer Vision
+- I'am pursued my Masters in Computer Science from IIT Kharagpur.
+- 👀 I’m interested in Algorithms, Machine Learning , Web Development.
 
 
 <!---
